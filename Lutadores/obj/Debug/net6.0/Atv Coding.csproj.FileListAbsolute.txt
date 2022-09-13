@@ -1,0 +1,45 @@
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\bin\Debug\net6.0\Atv Coding.exe
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\bin\Debug\net6.0\Atv Coding.deps.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\bin\Debug\net6.0\Atv Coding.runtimeconfig.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\bin\Debug\net6.0\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\bin\Debug\net6.0\Atv Coding.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.csproj.AssemblyReference.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.AssemblyInfoInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.AssemblyInfo.cs
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.csproj.CoreCompileInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\refint\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\Atv Coding.genruntimeconfig.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding 1\obj\Debug\net6.0\ref\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.csproj.AssemblyReference.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.AssemblyInfoInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.AssemblyInfo.cs
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.csproj.CoreCompileInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\refint\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\bin\Debug\net6.0\Atv Coding.exe
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\bin\Debug\net6.0\Atv Coding.deps.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\bin\Debug\net6.0\Atv Coding.runtimeconfig.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\bin\Debug\net6.0\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\bin\Debug\net6.0\Atv Coding.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\Atv Coding.genruntimeconfig.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Animais\obj\Debug\net6.0\ref\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\bin\Debug\net6.0\Atv Coding.exe
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\bin\Debug\net6.0\Atv Coding.deps.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\bin\Debug\net6.0\Atv Coding.runtimeconfig.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\bin\Debug\net6.0\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\bin\Debug\net6.0\Atv Coding.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.csproj.AssemblyReference.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.AssemblyInfoInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.AssemblyInfo.cs
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.csproj.CoreCompileInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\refint\Atv Coding.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\Atv Coding.genruntimeconfig.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Lutadores\obj\Debug\net6.0\ref\Atv Coding.dll

@@ -1,0 +1,15 @@
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.csproj.AssemblyReference.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.AssemblyInfoInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.AssemblyInfo.cs
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.csproj.CoreCompileInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\bin\Debug\net6.0\Atv Coding Part II.exe
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\bin\Debug\net6.0\Atv Coding Part II.deps.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\bin\Debug\net6.0\Atv Coding Part II.runtimeconfig.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\bin\Debug\net6.0\Atv Coding Part II.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\bin\Debug\net6.0\Atv Coding Part II.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\refint\Atv Coding Part II.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\Atv Coding Part II.genruntimeconfig.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\Atv Coding Part II\obj\Debug\net6.0\ref\Atv Coding Part II.dll
