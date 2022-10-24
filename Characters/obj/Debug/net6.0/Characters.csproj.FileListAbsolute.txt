@@ -1,0 +1,15 @@
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\bin\Debug\net6.0\Characters.exe
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\bin\Debug\net6.0\Characters.deps.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\bin\Debug\net6.0\Characters.runtimeconfig.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\bin\Debug\net6.0\Characters.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\bin\Debug\net6.0\Characters.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.csproj.AssemblyReference.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.AssemblyInfoInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.AssemblyInfo.cs
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.csproj.CoreCompileInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\refint\Characters.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\Characters.genruntimeconfig.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\C#\C#\Characters\obj\Debug\net6.0\ref\Characters.dll

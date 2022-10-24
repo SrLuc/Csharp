@@ -1,0 +1,9 @@
+Criar, conforme os conceitos vistos em sala de aula, nas linguagens C# ou Java:
+1 - Uma classe "Personagem" que possua os atributos: força, raça, vida e outros atributos à sua escolha;
+2 - Uma classe "Magia" que pode ser atribuida a um personagem (estará associada com esta classe), com os atributos: nome e poder;
+3 - Uma classe "Arma" que pode ser atribuida a um personagem (estará associada com esta classe), com os atributos: nome e poder;
+4 - Faça com que as classes dos dois ítens anteriores herdem de uma nova classe, chamada "artefato";
+5-  Reflita quais são os atribudos que devem ser encapsulados e faça seus respectivos encapsulamentos;
+6 - Reflita em quais construtores devem ser criados;
+7 - Reflita quais são os métodos da classe "Personagem"; 
+8 - Crie quatro tipos de "Personagens", Herdando da classe "Personagem", mas já com parte dos atributos preenchidos (conforme exemplo da útima aula);

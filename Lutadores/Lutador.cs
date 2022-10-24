@@ -14,5 +14,8 @@ public class Lutador
         {
             Console.WriteLine($"O lutador {this.nome} bateu no lutador {l.nome}");
         }
+        else{
+            System.Console.WriteLine($"O lutado {l.nome} bateu no lutado {this.nome}");
+        }
     }
 }
