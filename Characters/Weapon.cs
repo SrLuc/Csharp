@@ -1,20 +1,16 @@
 using System;
 
-public class Weapon
+//Criando a class Arma
+
+public class Weapon : Artefact
 {
     public string? name;
     private int power;
 
-    public Weapon(string? name, int power)
+
+    //Criando Construtor do Poder da arma
+    public Weapon(int power)
     {
-        this.name = name;
         this.power = power;
     }
-    
-    public string? Name { get => name; set => name = value; }
-    public int Power { get => power; set => power = value; }
 }
-
-
-
-

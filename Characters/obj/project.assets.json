@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ruan-\\.nuget\\packages\\": {}
+    "C:\\Users\\Facsenac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruan-\\OneDrive\\Documentos\\Programação\\C#\\C#\\Characters\\Characters.csproj",
-      "projectName": "Characters",
-      "projectPath": "C:\\Users\\ruan-\\OneDrive\\Documentos\\Programação\\C#\\C#\\Characters\\Characters.csproj",
-      "packagesPath": "C:\\Users\\ruan-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruan-\\OneDrive\\Documentos\\Programação\\C#\\C#\\Characters\\obj\\",
+      "projectUniqueName": "C:\\Users\\Facsenac\\Documents\\aluno kzx\\teste2\\teste2.csproj",
+      "projectName": "teste2",
+      "projectPath": "C:\\Users\\Facsenac\\Documents\\aluno kzx\\teste2\\teste2.csproj",
+      "packagesPath": "C:\\Users\\Facsenac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Facsenac\\Documents\\aluno kzx\\teste2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruan-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Facsenac\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
