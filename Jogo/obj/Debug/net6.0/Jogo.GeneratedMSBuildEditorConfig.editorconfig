@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Atv_Coding_Part_II
-build_property.ProjectDir = c:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Atividades Da Faculdade\Parede e Martelo\
+build_property.RootNamespace = Jogo
+build_property.ProjectDir = c:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Jogo\
