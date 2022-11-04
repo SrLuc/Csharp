@@ -1,0 +1,15 @@
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\bin\Debug\net6.0\Prova I unidade C#.exe
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\bin\Debug\net6.0\Prova I unidade C#.deps.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\bin\Debug\net6.0\Prova I unidade C#.runtimeconfig.json
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\bin\Debug\net6.0\Prova I unidade C#.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\bin\Debug\net6.0\Prova I unidade C#.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.csproj.AssemblyReference.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.AssemblyInfoInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.AssemblyInfo.cs
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.csproj.CoreCompileInputs.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\refint\Prova I unidade C#.dll
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.pdb
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\Prova I unidade C#.genruntimeconfig.cache
+C:\Users\ruan-\OneDrive\Documentos\Programação\Csharp\Prova I unidade C#\obj\Debug\net6.0\ref\Prova I unidade C#.dll
